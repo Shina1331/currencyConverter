@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Home</title>
+</head>
+<body>
+
+	<form th:action="@{/convert}" method="post">
+		<label for="amount">Amount:</label> <input type="number" id="amount"
+			name="amount" required="required" />
+
+		<p></p>
+
+		<div>
+
+			<label for="homeCurr">From:</label>
+			<!-- Create a dropdown (select element) with options for each user -->
+			<select id="currFrom" name="currFrom" required="required">
+				<option value="" disabled selected>Select a currency</option>
+				<option th:each="curr : ${currs}" th:value="${curr}"
+					th:text="${curr}"></option>
+
+			</select> <label for="targetCurr">To:</label>
+			<!-- Create a dropdown (select element) with options for each user -->
+			<select id="currTo" name="currTo" required="required">
+				<option value="" disabled selected>Select a currency</option>
+				<option th:each="curr : ${currs}" th:value="${curr}"
+					th:text="${curr}"></option>
+			</select>
+		</div>
+
+		<button type="submit">Convert</button>
+	</form>
+	<div th:if="${result != null}">
+		<p>
+			For <span th:text="${amount}"></span> <span th:text="${currFrom}"></span>,
+			you will get <span th:text="${result}"></span> <span
+				th:text="${currTo}"></span>!
+		</p>
+		<div th:if="${entity != null}">
+			<p>
+				Will you travel to <span th:text="${entity.getEntities()}"></span>
+				soon? The currency there is called <span
+					th:text="${entity.getCurrencyName()}"></span>
+			<div th:if="${flagExists}">
+				Have a look at the flag of <span th:text="${entity.getEntities()}"></span>!
+				<div style="display: flex; gap: 10px;">
+					<!-- Flex container for horizontal alignment -->
+					<div>
+						<img th:src="@{'/flags/' + ${entity.getAlphabeticCode} + '.png'}"
+							alt="Flag of [[${entity.getEntity()}]]" width="100" height="60" />
+					</div>
+					<div th:if="${secondFlag}">
+						<img th:src="@{'/flags/' + ${entity.getAlphabeticCode} + '2.png'}"
+							alt="Flag of [[${entity.getEntity().get(1)}]]" width="100"
+							height="60" />
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

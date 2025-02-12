@@ -1,0 +1,690 @@
+[
+  {
+    "entity": ["United Arab Emirates"],
+    "currency_name": "United Arab Emirates dirham",
+    "alphabetic_code": "AED"
+  },
+  {
+    "entity": ["Afghanistan"],
+    "currency_name": "Afghan afghani",
+    "alphabetic_code": "AFN"
+  },
+  {
+    "entity": ["Albania"],
+    "currency_name": "Albanian lek",
+    "alphabetic_code": "ALL"
+  },
+{
+    "entity": ["Armenia"],
+    "currency_name": "Armenian dram",
+    "alphabetic_code": "AMD"
+  }, {
+    "entity": ["Netherlands Antilles", "Curaçao", "Sint Maarten"],
+    "currency_name": "Netherlands Antillean guilder",
+    "alphabetic_code": "ANG"
+  }, {
+    "entity": ["Angola"],
+    "currency_name": "Angolan kwanza",
+    "alphabetic_code": "AOA"
+  }, {
+    "entity": ["Argentina"],
+    "currency_name": "Argentine peso",
+    "alphabetic_code": "ARS"
+  }, {
+    "entity": ["Australia", "Kiribati", "Nauru", "Tuvalu", "Christmas Island", "Cocos Islands"],
+    "currency_name": "Australian dollar",
+    "alphabetic_code": "AUD"
+  }, {
+    "entity": ["Aruba"],
+    "currency_name": "Aruban florin",
+    "alphabetic_code": "AWG"
+  }, {
+    "entity": ["Azerbaijan"],
+    "currency_name": "Azerbaijani manat",
+    "alphabetic_code": "AZN"
+  }, {
+    "entity": ["Bosnia and Herzegovina"],
+    "currency_name": "Bosnia and Herzegovina convertible mark",
+    "alphabetic_code": "BAM"
+  }, {
+    "entity": ["Barbados"],
+    "currency_name": "Barbadian dollar",
+    "alphabetic_code": "BBD"
+  }, {
+    "entity": ["Bangladesh"],
+    "currency_name": "Bangladeshi taka",
+    "alphabetic_code": "BDT"
+  },{
+    "entity": ["Bulgaria"],
+    "currency_name": "Bulgarian lev",
+    "alphabetic_code": "BGN"
+  },{
+    "entity": ["Bahrain"],
+    "currency_name": "Bahraini dinar",
+    "alphabetic_code": "BHD"
+  }, {
+    "entity": ["Burundi"],
+    "currency_name": "Burundian franc",
+    "alphabetic_code": "BIF"
+  }, {
+    "entity": ["Bermuda"],
+    "currency_name": "Bermudian dollar",
+    "alphabetic_code": "BMD"
+  }, {
+    "entity": ["Brunei"],
+    "currency_name": "Brunei dollar",
+    "alphabetic_code": "BND"
+  }, {
+    "entity": ["Bolivia"],
+    "currency_name": "Bolivian boliviano",
+    "alphabetic_code": "BOB"
+  }, {
+    "entity": ["Brazil"],
+    "currency_name": "Brazilian real",
+    "alphabetic_code": "BRL"
+  }, {
+    "entity": ["Bahamas"],
+    "currency_name": "Bahamian dollar",
+    "alphabetic_code": "BSD"
+  }, {
+    "entity": ["Global (Cryptocurrency)"],
+    "currency_name": "Bitcoin",
+    "alphabetic_code": "BTC"
+  },{
+    "entity": ["Bhutan"],
+    "currency_name": "Bhutanese ngultrum",
+    "alphabetic_code": "BTN"
+  }, {
+    "entity": ["Botswana"],
+    "currency_name": "Botswana pula",
+    "alphabetic_code": "BWP"
+  }, {
+    "entity": ["Belarus"],
+    "currency_name": "Belarusian ruble",
+    "alphabetic_code": "BYN"
+  },{
+    "entity": ["Belarus (former)"],
+    "currency_name": "Belarusian ruble (former)",
+    "alphabetic_code": "BYR"
+  }, {
+    "entity": ["Belize"],
+    "currency_name": "Belize dollar",
+    "alphabetic_code": "BZD"
+  }, {
+    "entity": ["Canada"],
+    "currency_name": "Canadian dollar",
+    "alphabetic_code": "CAD"
+  }, {
+    "entity": ["Democratic Republic of the Congo"],
+    "currency_name": "Congolese franc",
+    "alphabetic_code": "CDF"
+  }, {
+    "entity": ["Switzerland", "Liechtenstein"],
+    "currency_name": "Swiss franc",
+    "alphabetic_code": "CHF"
+  }, {
+    "entity": ["Chile"],
+    "currency_name": "Unidad de Fomento",
+    "alphabetic_code": "CLF"
+  }, {
+    "entity": ["Chile"],
+    "currency_name": "Chilean peso",
+    "alphabetic_code": "CLP"
+  }, {
+    "entity": ["China"],
+    "currency_name": "Chinese yuan",
+    "alphabetic_code": "CNY"
+  }, {
+    "entity": ["China (Offshore)"],
+    "currency_name": "Chinese yuan (offshore)",
+    "alphabetic_code": "CNH"
+  }, {
+    "entity": ["Colombia"],
+    "currency_name": "Colombian peso",
+    "alphabetic_code": "COP"
+  }, {
+    "entity": ["Costa Rica"],
+    "currency_name": "Costa Rican colón",
+    "alphabetic_code": "CRC"
+  }, {
+    "entity": ["Cuba (former)"],
+    "currency_name": "Cuban convertible peso (former)",
+    "alphabetic_code": "CUC"
+  },{
+    "entity": ["Cuba"],
+    "currency_name": "Cuban peso",
+    "alphabetic_code": "CUP"
+  }, {
+    "entity": ["Cape Verde"],
+    "currency_name": "Cape Verdean escudo",
+    "alphabetic_code": "CVE"
+  },{
+    "entity": ["Czech Republic"],
+    "currency_name": "Czech koruna",
+    "alphabetic_code": "CZK"
+  }, {
+    "entity": ["Djibouti"],
+    "currency_name": "Djiboutian franc",
+    "alphabetic_code": "DJF"
+  }, {
+    "entity": ["Denmark"],
+    "currency_name": "Danish krone",
+    "alphabetic_code": "DKK"
+  }, {
+    "entity": ["Dominican Republic"],
+    "currency_name": "Dominican peso",
+    "alphabetic_code": "DOP"
+  }, {
+    "entity": ["Algeria"],
+    "currency_name": "Algerian dinar",
+    "alphabetic_code": "DZD"
+  }, {
+    "entity": ["Egypt"],
+    "currency_name": "Egyptian pound",
+    "alphabetic_code": "EGP"
+  }
+,{
+    "entity": ["Eritrea"],
+    "currency_name": "Eritrean nakfa",
+    "alphabetic_code": "ERN"
+  }, {
+    "entity": ["Ethiopia"],
+    "currency_name": "Ethiopian birr",
+    "alphabetic_code": "ETB"
+  },{
+    "entity": ["Eurozone"],
+    "currency_name": "Euro",
+    "alphabetic_code": "EUR"
+  },{
+    "entity": ["Fiji"],
+    "currency_name": "Fijian dollar",
+    "alphabetic_code": "FJD"
+  }, {
+    "entity": ["Falkland Islands"],
+    "currency_name": "Falkland Islands pound",
+    "alphabetic_code": "FKP"
+  }, {
+    "entity": ["United Kingdom", "Gibraltar", "Falkland Islands"],
+    "currency_name": "British pound",
+    "alphabetic_code": "GBP"
+  }, {
+    "entity": ["Georgia"],
+    "currency_name": "Georgian lari",
+    "alphabetic_code": "GEL"
+  }, {
+    "entity": ["Guernsey"],
+    "currency_name": "Guernsey pound",
+    "alphabetic_code": "GGP"
+  }, {
+    "entity": ["Ghana"],
+    "currency_name": "Ghanaian cedi",
+    "alphabetic_code": "GHS"
+  },{
+    "entity": ["Gibraltar"],
+    "currency_name": "Gibraltar pound",
+    "alphabetic_code": "GIP"
+  }, {
+    "entity": ["Gambia"],
+    "currency_name": "Gambian dalasi",
+    "alphabetic_code": "GMD"
+  }, {
+    "entity": ["Guinea"],
+    "currency_name": "Guinean franc",
+    "alphabetic_code": "GNF"
+  }, {
+    "entity": ["Guatemala"],
+    "currency_name": "Guatemalan quetzal",
+    "alphabetic_code": "GTQ"
+  }, {
+    "entity": ["Guyana"],
+    "currency_name": "Guyanese dollar",
+    "alphabetic_code": "GYD"
+  }, {
+    "entity": ["Hong Kong"],
+    "currency_name": "Hong Kong dollar",
+    "alphabetic_code": "HKD"
+  }, {
+    "entity": ["Honduras"],
+    "currency_name": "Honduran lempira",
+    "alphabetic_code": "HNL"
+  }, {
+    "entity": ["Croatia"],
+    "currency_name": "Croatian kuna",
+    "alphabetic_code": "HRK"
+  }, {
+    "entity": ["Haiti"],
+    "currency_name": "Haitian gourde",
+    "alphabetic_code": "HTG"
+  }, {
+    "entity": ["Hungary"],
+    "currency_name": "Hungarian forint",
+    "alphabetic_code": "HUF"
+  }, {
+    "entity": ["Indonesia"],
+    "currency_name": "Indonesian rupiah",
+    "alphabetic_code": "IDR"
+  }, {
+    "entity": ["Israel"],
+    "currency_name": "Israeli new shekel",
+    "alphabetic_code": "ILS"
+  }, {
+    "entity": ["Isle of Man"],
+    "currency_name": "Isle of Man pound",
+    "alphabetic_code": "IMP"
+  }, {
+    "entity": ["India"],
+    "currency_name": "Indian rupee",
+    "alphabetic_code": "INR"
+  }, {
+    "entity": ["Iraq"],
+    "currency_name": "Iraqi dinar",
+    "alphabetic_code": "IQD"
+  }, {
+    "entity": ["Iran"],
+    "currency_name": "Iranian rial",
+    "alphabetic_code": "IRR"
+  }, {
+    "entity": ["Iceland"],
+    "currency_name": "Icelandic króna",
+    "alphabetic_code": "ISK"
+  }, {
+    "entity": ["Jersey"],
+    "currency_name": "Jersey pound",
+    "alphabetic_code": "JEP"
+  }, {
+    "entity": ["Jamaica"],
+    "currency_name": "Jamaican dollar",
+    "alphabetic_code": "JMD"
+  }, {
+    "entity": ["Jordan"],
+    "currency_name": "Jordanian dinar",
+    "alphabetic_code": "JOD"
+  }, {
+    "entity": ["Japan"],
+    "currency_name": "Japanese yen",
+    "alphabetic_code": "JPY"
+  }
+, {
+    "entity": ["Kenya"],
+    "currency_name": "Kenyan shilling",
+    "alphabetic_code": "KES"
+  }, {
+    "entity": ["Kyrgyzstan"],
+    "currency_name": "Kyrgyzstani som",
+    "alphabetic_code": "KGS"
+  }, {
+    "entity": ["Cambodia"],
+    "currency_name": "Cambodian riel",
+    "alphabetic_code": "KHR"
+  }, {
+    "entity": ["Comoros"],
+    "currency_name": "Comorian franc",
+    "alphabetic_code": "KMF"
+  }, {
+    "entity": ["North Korea"],
+    "currency_name": "North Korean won",
+    "alphabetic_code": "KPW"
+  }, {
+    "entity": ["South Korea"],
+    "currency_name": "South Korean won",
+    "alphabetic_code": "KRW"
+  }, {
+    "entity": ["Kuwait"],
+    "currency_name": "Kuwaiti dinar",
+    "alphabetic_code": "KWD"
+  }, {
+    "entity": ["Cayman Islands"],
+    "currency_name": "Cayman Islands dollar",
+    "alphabetic_code": "KYD"
+  }, {
+    "entity": ["Kazakhstan"],
+    "currency_name": "Kazakhstani tenge",
+    "alphabetic_code": "KZT"
+  }, {
+    "entity": ["Laos"],
+    "currency_name": "Lao kip",
+    "alphabetic_code": "LAK"
+  }, {
+    "entity": ["Lebanon"],
+    "currency_name": "Lebanese pound",
+    "alphabetic_code": "LBP"
+  }, {
+    "entity": ["Sri Lanka"],
+    "currency_name": "Sri Lankan rupee",
+    "alphabetic_code": "LKR"
+  },{
+    "entity": ["Liberia"],
+    "currency_name": "Liberian dollar",
+    "alphabetic_code": "LRD"
+  }, {
+    "entity": ["Lesotho"],
+    "currency_name": "Lesotho loti",
+    "alphabetic_code": "LSL"
+  }, {
+    "entity": ["Lithuania"],
+    "currency_name": "Lithuanian litas",
+    "alphabetic_code": "LTL"
+  },{
+    "entity": ["Latvia"],
+    "currency_name": "Latvian lats",
+    "alphabetic_code": "LVL"
+  }, {
+    "entity": ["Libya"],
+    "currency_name": "Libyan dinar",
+    "alphabetic_code": "LYD"
+  }, {
+    "entity": ["Morocco"],
+    "currency_name": "Moroccan dirham",
+    "alphabetic_code": "MAD"
+  }, {
+    "entity": ["Moldova"],
+    "currency_name": "Moldovan leu",
+    "alphabetic_code": "MDL"
+  }, {
+    "entity": ["Madagascar"],
+    "currency_name": "Malagasy ariary",
+    "alphabetic_code": "MGA"
+  }, {
+    "entity": ["North Macedonia"],
+    "currency_name": "Macedonian denar",
+    "alphabetic_code": "MKD"
+  }, {
+    "entity": ["Myanmar"],
+    "currency_name": "Myanmar kyat",
+    "alphabetic_code": "MMK"
+  }, {
+    "entity": ["Mongolia"],
+    "currency_name": "Mongolian tugrik",
+    "alphabetic_code": "MNT"
+  },{
+    "entity": ["Macau"],
+    "currency_name": "Macanese pataca",
+    "alphabetic_code": "MOP"
+  }, {
+    "entity": ["Mauritania"],
+    "currency_name": "Mauritanian ouguiya",
+    "alphabetic_code": "MRU"
+  }, {
+    "entity": ["Mauritius"],
+    "currency_name": "Mauritian rupee",
+    "alphabetic_code": "MUR"
+  }, {
+    "entity": ["Maldives"],
+    "currency_name": "Maldivian rufiyaa",
+    "alphabetic_code": "MVR"
+  }, {
+    "entity": ["Malawi"],
+    "currency_name": "Malawian kwacha",
+    "alphabetic_code": "MWK"
+  }, {
+    "entity": ["Mexico"],
+    "currency_name": "Mexican peso",
+    "alphabetic_code": "MXN"
+  }, {
+    "entity": ["Malaysia"],
+    "currency_name": "Malaysian ringgit",
+    "alphabetic_code": "MYR"
+  },{
+    "entity": ["Mozambique"],
+    "currency_name": "Mozambican metical",
+    "alphabetic_code": "MZN"
+  }, {
+    "entity": ["Namibia"],
+    "currency_name": "Namibian dollar",
+    "alphabetic_code": "NAD"
+  }, {
+    "entity": ["Nigeria"],
+    "currency_name": "Nigerian naira",
+    "alphabetic_code": "NGN"
+  }, {
+    "entity": ["Nicaragua"],
+    "currency_name": "Nicaraguan córdoba",
+    "alphabetic_code": "NIO"
+  }, {
+    "entity": ["Norway"],
+    "currency_name": "Norwegian krone",
+    "alphabetic_code": "NOK"
+  }, {
+    "entity": ["Nepal"],
+    "currency_name": "Nepalese rupee",
+    "alphabetic_code": "NPR"
+  }, {
+    "entity": ["New Zealand"],
+    "currency_name": "New Zealand dollar",
+    "alphabetic_code": "NZD"
+  }, {
+    "entity": ["Oman"],
+    "currency_name": "Omani rial",
+    "alphabetic_code": "OMR"
+  }, {
+    "entity": ["Panama"],
+    "currency_name": "Panamanian balboa",
+    "alphabetic_code": "PAB"
+  }, {
+    "entity": ["Peru"],
+    "currency_name": "Peruvian nuevo sol",
+    "alphabetic_code": "PEN"
+  }, {
+    "entity": ["Papua New Guinea"],
+    "currency_name": "Papua New Guinean kina",
+    "alphabetic_code": "PGK"
+  }, {
+    "entity": ["Philippines"],
+    "currency_name": "Philippine peso",
+    "alphabetic_code": "PHP"
+  }, {
+    "entity": ["Pakistan"],
+    "currency_name": "Pakistani rupee",
+    "alphabetic_code": "PKR"
+  },{
+    "entity": ["Poland"],
+    "currency_name": "Polish złoty",
+    "alphabetic_code": "PLN"
+  }, {
+    "entity": ["Paraguay"],
+    "currency_name": "Paraguayan guarani",
+    "alphabetic_code": "PYG"
+  }, {
+    "entity": ["Qatar"],
+    "currency_name": "Qatari riyal",
+    "alphabetic_code": "QAR"
+  }, {
+    "entity": ["Romania"],
+    "currency_name": "Romanian leu",
+    "alphabetic_code": "RON"
+  }, {
+    "entity": ["Serbia"],
+    "currency_name": "Serbian dinar",
+    "alphabetic_code": "RSD"
+  }, {
+    "entity": ["Russia"],
+    "currency_name": "Russian ruble",
+    "alphabetic_code": "RUB"
+  },{
+    "entity": ["Rwanda"],
+    "currency_name": "Rwandan franc",
+    "alphabetic_code": "RWF"
+  }, {
+    "entity": ["Saudi Arabia"],
+    "currency_name": "Saudi riyal",
+    "alphabetic_code": "SAR"
+  }, {
+    "entity": ["Solomon Islands"],
+    "currency_name": "Solomon Islands dollar",
+    "alphabetic_code": "SBD"
+  },{
+    "entity": ["Seychelles"],
+    "currency_name": "Seychellois rupee",
+    "alphabetic_code": "SCR"
+  }, {
+    "entity": ["Sudan"],
+    "currency_name": "Sudanese pound",
+    "alphabetic_code": "SDG"
+  }, {
+    "entity": ["Sweden"],
+    "currency_name": "Swedish krona",
+    "alphabetic_code": "SEK"
+  }, {
+    "entity": ["Singapore"],
+    "currency_name": "Singapore dollar",
+    "alphabetic_code": "SGD"
+  }, {
+    "entity": ["Saint Helena"],
+    "currency_name": "Saint Helena pound",
+    "alphabetic_code": "SHP"
+  }, {
+    "entity": ["Sierra Leone"],
+    "currency_name": "Sierra Leonean leone",
+    "alphabetic_code": "SLE"
+  }, {
+    "entity": ["Sierra Leone"],
+    "currency_name": "Sierra Leonean leone",
+    "alphabetic_code": "SLL"
+  }, {
+    "entity": ["Somalia"],
+    "currency_name": "Somali shilling",
+    "alphabetic_code": "SOS"
+  }, {
+    "entity": ["Suriname"],
+    "currency_name": "Surinamese dollar",
+    "alphabetic_code": "SRD"
+  },{
+    "entity": ["São Tomé and Príncipe"],
+    "currency_name": "São Tomé and Príncipe dobra",
+    "alphabetic_code": "STD"
+  }, {
+    "entity": ["El Salvador"],
+    "currency_name": "Salvadoran colón",
+    "alphabetic_code": "SVC"
+  }, {
+    "entity": ["Syria"],
+    "currency_name": "Syrian pound",
+    "alphabetic_code": "SYP"
+  }, {
+    "entity": ["Eswatini"],
+    "currency_name": "Swazi lilangeni",
+    "alphabetic_code": "SZL"
+  }, {
+    "entity": ["Thailand"],
+    "currency_name": "Thai baht",
+    "alphabetic_code": "THB"
+  }, {
+    "entity": ["Tajikistan"],
+    "currency_name": "Tajikistani somoni",
+    "alphabetic_code": "TJS"
+  },{
+    "entity": ["Turkmenistan"],
+    "currency_name": "Turkmenistan manat",
+    "alphabetic_code": "TMT"
+  }, {
+    "entity": ["Tunisia"],
+    "currency_name": "Tunisian dinar",
+    "alphabetic_code": "TND"
+  }, {
+    "entity": ["Tonga"],
+    "currency_name": "Tongan paʻanga",
+    "alphabetic_code": "TOP"
+  }, {
+    "entity": ["Turkey"],
+    "currency_name": "Turkish lira",
+    "alphabetic_code": "TRY"
+  },{
+    "entity": ["Trinidad and Tobago"],
+    "currency_name": "Trinidad and Tobago dollar",
+    "alphabetic_code": "TTD"
+  },{
+    "entity": ["Taiwan"],
+    "currency_name": "New Taiwan dollar",
+    "alphabetic_code": "TWD"
+  }, {
+    "entity": ["Tanzania"],
+    "currency_name": "Tanzanian shilling",
+    "alphabetic_code": "TZS"
+  }, {
+    "entity": ["Ukraine"],
+    "currency_name": "Ukrainian hryvnia",
+    "alphabetic_code": "UAH"
+  }, {
+    "entity": ["Uganda"],
+    "currency_name": "Ugandan shilling",
+    "alphabetic_code": "UGX"
+  }, {
+    "entity": ["United States"],
+    "currency_name": "United States dollar",
+    "alphabetic_code": "USD"
+  }, {
+    "entity": ["Uruguay"],
+    "currency_name": "Uruguayan peso",
+    "alphabetic_code": "UYU"
+  },{
+    "entity": ["Uzbekistan"],
+    "currency_name": "Uzbekistani som",
+    "alphabetic_code": "UZS"
+  }, {
+    "entity": ["Venezuela"],
+    "currency_name": "Venezuelan bolívar",
+    "alphabetic_code": "VES"
+  },{
+    "entity": ["Vietnam"],
+    "currency_name": "Vietnamese đồng",
+    "alphabetic_code": "VND"
+  },{
+    "entity": ["Vanuatu"],
+    "currency_name": "Vanuatu vatu",
+    "alphabetic_code": "VUV"
+  },{
+    "entity": ["Samoa"],
+    "currency_name": "Samoan tala",
+    "alphabetic_code": "WST"
+  },{
+    "entity": ["Central Africa"],
+    "currency_name": "Central African CFA franc",
+    "alphabetic_code": "XAF"
+  }, {
+    "entity": ["International"],
+    "currency_name": "Silver ounce",
+    "alphabetic_code": "XAG"
+  }, {
+    "entity": ["International"],
+    "currency_name": "Gold ounce",
+    "alphabetic_code": "XAU"
+  }, {
+    "entity": ["East Caribbean"],
+    "currency_name": "East Caribbean dollar",
+    "alphabetic_code": "XCD"
+  }, {
+    "entity": ["International Monetary Fund (IMF)"],
+    "currency_name": "Special Drawing Rights",
+    "alphabetic_code": "XDR"
+  }, {
+    "entity": ["West Africa"],
+    "currency_name": "West African CFA franc",
+    "alphabetic_code": "XOF"
+  }, {
+    "entity": ["Pacific Franc"],
+    "currency_name": "CFP franc",
+    "alphabetic_code": "XPF"
+  }, {
+    "entity": ["Yemen"],
+    "currency_name": "Yemeni rial",
+    "alphabetic_code": "YER"
+  }, {
+    "entity": ["South Africa"],
+    "currency_name": "South African rand",
+    "alphabetic_code": "ZAR"
+  }, {
+    "entity": ["Zambia"],
+    "currency_name": "Zambian kwacha",
+    "alphabetic_code": "ZMK"
+  }, {
+    "entity": ["Zambia"],
+    "currency_name": "Zambian kwacha",
+    "alphabetic_code": "ZMW"
+  }, {
+    "entity": ["Zimbabwe"],
+    "currency_name": "Zimbabwean dollar",
+    "alphabetic_code": "ZWL"
+  }]
+
+  
+
